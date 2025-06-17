@@ -1311,8 +1311,6 @@ int main (){
         //MEU COMENTARIO PESSOAL:
     //bem por incrivel que pareça, o programa aguentou todas essas linhas de codigo, sei que existem formas melhores de atender as expectativas do desafio.
     //mas eu estou no começo, e essa foi a forma que imaginei de criar "rotas diferentes dependendo da escolha".
-    //estou feliz, e ao mesmo tempo frustrado, o prazo está chegando, e tudo isso foi só para fazer comparações de numeros
-    //e eu demorei muito para chegar a esse resultado, perdi muito tempo... Mas enfim
     //durante a programação, eu me senti em uma teia de aranha, codigos são confusos e faceis de se perder, mesmo para a pessoa mais organizada.
     //e mesmo com tudo organizado, é dificil se orientar aqui, eu confesso.
     //
